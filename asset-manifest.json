@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/my-app/static/js/main.671856a6.chunk.js",
-    "main.js.map": "/my-app/static/js/main.671856a6.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.b160fff0.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.b160fff0.js.map",
-    "static/js/2.92e9265e.chunk.js": "/my-app/static/js/2.92e9265e.chunk.js",
-    "static/js/2.92e9265e.chunk.js.map": "/my-app/static/js/2.92e9265e.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.fcddbcf90cf8bf32817479269c315630.js": "/my-app/precache-manifest.fcddbcf90cf8bf32817479269c315630.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/my-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.92e9265e.chunk.js.LICENSE": "/my-app/static/js/2.92e9265e.chunk.js.LICENSE",
-    "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/create-react-app-gh-pages/static/css/main.d1b05096.chunk.css",
+    "main.js": "/create-react-app-gh-pages/static/js/main.1b7da744.chunk.js",
+    "main.js.map": "/create-react-app-gh-pages/static/js/main.1b7da744.chunk.js.map",
+    "runtime-main.js": "/create-react-app-gh-pages/static/js/runtime-main.5d62fa5b.js",
+    "runtime-main.js.map": "/create-react-app-gh-pages/static/js/runtime-main.5d62fa5b.js.map",
+    "static/js/2.92e9265e.chunk.js": "/create-react-app-gh-pages/static/js/2.92e9265e.chunk.js",
+    "static/js/2.92e9265e.chunk.js.map": "/create-react-app-gh-pages/static/js/2.92e9265e.chunk.js.map",
+    "index.html": "/create-react-app-gh-pages/index.html",
+    "precache-manifest.f1f9baf9ad953d4fd5191c7a35bd3328.js": "/create-react-app-gh-pages/precache-manifest.f1f9baf9ad953d4fd5191c7a35bd3328.js",
+    "service-worker.js": "/create-react-app-gh-pages/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/create-react-app-gh-pages/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.92e9265e.chunk.js.LICENSE": "/create-react-app-gh-pages/static/js/2.92e9265e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/create-react-app-gh-pages/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b160fff0.js",
+    "static/js/runtime-main.5d62fa5b.js",
     "static/js/2.92e9265e.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.671856a6.chunk.js"
+    "static/js/main.1b7da744.chunk.js"
   ]
 }
